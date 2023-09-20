@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RKDTU
-- 👀 I’m interested in computer forensics
-- 🌱 I’m currently learning data structures and algorithms in C#
+- 👀 I’m studying Forensic Science & Computer Science
+- 🌱 I’m currently learning C#, Java, Python, and HTML
 
 <!---
 RKDTU/RKDTU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
