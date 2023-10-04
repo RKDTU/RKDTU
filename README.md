@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RKDTU
 - 👀 I’m studying Forensic Science & Computer Science
-- 🌱 I’m currently learning C#, Java, Python, and HTML
+- 🌱 I’m currently learning C#, Java, JS, Python, SQL, and HTML
 
 <!---
 RKDTU/RKDTU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
